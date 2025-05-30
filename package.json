@@ -1,6 +1,6 @@
 {
-  "name": "garden",
-  "homepage": "https://github.com/adekoelijah/garden-restaurant",
+  "name": "garden-restaurant",
+  "homepage": "https://github.com/adekoelijah/garden-restaurant/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
