@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/adekoelijah/garden-restaurant/static/css/main.2af66628.css",
-    "main.js": "/adekoelijah/garden-restaurant/static/js/main.218081d2.js",
-    "static/media/n3.png": "/adekoelijah/garden-restaurant/static/media/n3.dd551cc9b5ef12b75c25.png",
-    "static/media/n1.png": "/adekoelijah/garden-restaurant/static/media/n1.02f85f816a45741f0e70.png",
-    "static/media/n9.jpg": "/adekoelijah/garden-restaurant/static/media/n9.446ef773e48c94098016.jpg",
-    "static/media/n8.jpeg": "/adekoelijah/garden-restaurant/static/media/n8.2bd56b92cee94eb2933f.jpeg",
-    "static/media/n6.webp": "/adekoelijah/garden-restaurant/static/media/n6.3417a3f5d45a0227e505.webp",
-    "static/media/n2.jpg": "/adekoelijah/garden-restaurant/static/media/n2.4c2ee735438b8c4514e6.jpg",
-    "static/media/n4.webp": "/adekoelijah/garden-restaurant/static/media/n4.4842df7b25500232c770.webp",
-    "static/media/n7.jpg": "/adekoelijah/garden-restaurant/static/media/n7.7ed4417f2c4ee5549adc.jpg",
-    "static/media/n5.jpg": "/adekoelijah/garden-restaurant/static/media/n5.444e1db996c311ac67cc.jpg",
-    "static/media/p1.jpg": "/adekoelijah/garden-restaurant/static/media/p1.47e6b296a1a53395180d.jpg",
-    "static/media/person.png": "/adekoelijah/garden-restaurant/static/media/person.44067b266bafb7086fda.png",
-    "static/media/nn1.jpg": "/adekoelijah/garden-restaurant/static/media/nn1.98ec7bcbfeae5ddde267.jpg",
-    "static/media/cart.png": "/adekoelijah/garden-restaurant/static/media/cart.5788b1ef83bdb71b5a01.png",
-    "static/media/mark.png": "/adekoelijah/garden-restaurant/static/media/mark.3e4ffb7706db2a046a3a.png",
-    "static/media/p3.jpg": "/adekoelijah/garden-restaurant/static/media/p3.b0d67d36b323a58ffc87.jpg",
-    "static/media/nn4.png": "/adekoelijah/garden-restaurant/static/media/nn4.a4eb53df40815830eb2b.png",
-    "static/media/p2.jpg": "/adekoelijah/garden-restaurant/static/media/p2.4497a84692d61151b867.jpg",
-    "index.html": "/adekoelijah/garden-restaurant/index.html",
-    "main.2af66628.css.map": "/adekoelijah/garden-restaurant/static/css/main.2af66628.css.map",
-    "main.218081d2.js.map": "/adekoelijah/garden-restaurant/static/js/main.218081d2.js.map"
+    "main.css": "/garden-restaurant/static/css/main.2af66628.css",
+    "main.js": "/garden-restaurant/static/js/main.54021380.js",
+    "static/media/n3.png": "/garden-restaurant/static/media/n3.dd551cc9b5ef12b75c25.png",
+    "static/media/n1.png": "/garden-restaurant/static/media/n1.02f85f816a45741f0e70.png",
+    "static/media/n9.jpg": "/garden-restaurant/static/media/n9.446ef773e48c94098016.jpg",
+    "static/media/n8.jpeg": "/garden-restaurant/static/media/n8.2bd56b92cee94eb2933f.jpeg",
+    "static/media/n6.webp": "/garden-restaurant/static/media/n6.3417a3f5d45a0227e505.webp",
+    "static/media/n2.jpg": "/garden-restaurant/static/media/n2.4c2ee735438b8c4514e6.jpg",
+    "static/media/n4.webp": "/garden-restaurant/static/media/n4.4842df7b25500232c770.webp",
+    "static/media/n7.jpg": "/garden-restaurant/static/media/n7.7ed4417f2c4ee5549adc.jpg",
+    "static/media/n5.jpg": "/garden-restaurant/static/media/n5.444e1db996c311ac67cc.jpg",
+    "static/media/p1.jpg": "/garden-restaurant/static/media/p1.47e6b296a1a53395180d.jpg",
+    "static/media/person.png": "/garden-restaurant/static/media/person.44067b266bafb7086fda.png",
+    "static/media/nn1.jpg": "/garden-restaurant/static/media/nn1.98ec7bcbfeae5ddde267.jpg",
+    "static/media/cart.png": "/garden-restaurant/static/media/cart.5788b1ef83bdb71b5a01.png",
+    "static/media/mark.png": "/garden-restaurant/static/media/mark.3e4ffb7706db2a046a3a.png",
+    "static/media/p3.jpg": "/garden-restaurant/static/media/p3.b0d67d36b323a58ffc87.jpg",
+    "static/media/nn4.png": "/garden-restaurant/static/media/nn4.a4eb53df40815830eb2b.png",
+    "static/media/p2.jpg": "/garden-restaurant/static/media/p2.4497a84692d61151b867.jpg",
+    "index.html": "/garden-restaurant/index.html",
+    "main.2af66628.css.map": "/garden-restaurant/static/css/main.2af66628.css.map",
+    "main.54021380.js.map": "/garden-restaurant/static/js/main.54021380.js.map"
   },
   "entrypoints": [
     "static/css/main.2af66628.css",
-    "static/js/main.218081d2.js"
+    "static/js/main.54021380.js"
   ]
 }
